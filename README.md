@@ -32,4 +32,5 @@ SETUP
   - Shortcuts use the Command key (Mac).
     For Windows, change KEY_LEFT_GUI to KEY_LEFT_CTRL in the code.
   
- 
+ <img width="1710" height="1112" alt="Screenshot 2026-10-11 at 14 08 32" src="https://github.com/user-attachments/assets/5c13d901-dbe7-49fb-9a48-5116dcbb3ccb" />
+
